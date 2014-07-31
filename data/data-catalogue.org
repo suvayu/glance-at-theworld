@@ -1,5 +1,5 @@
-* Data catalogs
-- The World Bank data catalog :: http://datacatalog.worldbank.org/
+* Data catalogues
+- The World Bank data catalogue :: http://datacatalog.worldbank.org/
 
 * Development indicators
 - Africa Development Indicators :: [[http://data.worldbank.org/data-catalog/africa-development-indicators][ADI_csv.zip]]

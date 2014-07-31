@@ -3,8 +3,8 @@
 This project tries to explore a few publicly available datasets of
 social, economic, and development metrics of coutries of the world.
 
-All dataset sources are referenced in the data/data-catalog.org file.
-Any related technical notes are discussed here.
+All dataset sources are referenced in the data/data-catalogue.org
+file.  Any related technical notes are discussed here.
 
 The software is (or will be) primarily written in ~R~ or ~python~.
 Please also note that everything in this repository is in the public
