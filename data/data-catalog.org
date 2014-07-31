@@ -1,0 +1,19 @@
+* Data catalogs
+- The World Bank data catalog :: http://datacatalog.worldbank.org/
+
+* Development indicators
+- Africa Development Indicators :: [[http://data.worldbank.org/data-catalog/africa-development-indicators][ADI_csv.zip]]
+- World Development Indicators :: [[http://data.worldbank.org/data-catalog/world-development-indicators][WDI_csv.zip]]
+- International Debt Statistics :: [[http://data.worldbank.org/data-catalog/international-debt-statistics][IDS_CSV.zip]]
+- Worldwide Governance Indicators :: http://data.worldbank.org/data-catalog/worldwide-governance-indicators
+
+* Social indicators
+- Education Statistics :: [[http://data.worldbank.org/data-catalog/ed-stats][Edstats_csv.zip]]
+- Gender Statistics :: [[http://data.worldbank.org/data-catalog/gender-statistics][Gender_Stats_csv.zip]]
+- Migration & Remittances (2011) :: http://data.worldbank.org/data-catalog/migration-and-remittances
+  - RemittancesData_Inflows_Apr12(Public).xlsx
+  - RemittancesData_Outflows_Apr12(Public).xlsx
+
+* Tools notes
+- xlsx → csv
+  : unoconv -f csv spreadsheet.xlsx
